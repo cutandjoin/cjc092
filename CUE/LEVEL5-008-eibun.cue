@@ -1,5 +1,5 @@
 REM DIRINDEX 1\2\4,1\2\5,1\3\6,1\3\7,1\3\8
-REM DIRNAME cjc092,folder01,folder02,folder03,folder04,folder05,folder06,folder07
+REM DIRNAME folder01,folder02,folder03,folder04,folder05,folder06,folder07,folder08
 TITLE ""
 FILE "LEVEL5-008-eibun.mp3" MP3
   TRACK 01 AUDIO
